@@ -110,8 +110,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   # Your existing modules will appear here.
 
   # Add the Wowchemy CMS module below, if it has not already been added:
-  [[module.imports]]
-   path = "https://github.com/wowchemy/wowchemy-hugo-modules/tree/main/wowchemy-cms"
+  #[[module.imports]]
+  # path = "https://github.com/wowchemy/wowchemy-hugo-modules/tree/main/wowchemy-cms"
 
  # [[module.imports]]
   
