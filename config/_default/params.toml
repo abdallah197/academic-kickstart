@@ -285,8 +285,4 @@ plugins_js  = []
 ## Content Management System
 ############################
 [cms]
-  #branch = "main"
-  #publish_mode = "editorial_workflow"
-  #local_backend = true
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  #netlify_cms = true
+  branch = "master"
